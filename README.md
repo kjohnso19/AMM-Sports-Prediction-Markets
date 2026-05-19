@@ -14,3 +14,4 @@ The goal is to explore potential MM strategies that can be phased in across majo
 
 ## Limitations
 1. Market data pull has limit of 1000 trades per market - liquid markets or popular players will tend to exceed this limitation for pre-tournament trading, especially in the winner markets. Must pull daily trade data and aggregate to single dataset.
+2. Kalshi API does not have historical orderbook data to align with trade data. Will need to join with addtional API or 
