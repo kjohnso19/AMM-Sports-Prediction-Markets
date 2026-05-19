@@ -1,5 +1,5 @@
 # AMM-Sports-Prediction-Markets
-Using Kalshi API for market daya, this project goal is to research and design AMM (automated market making) strategies for optimal risk/return while providing efficient liquidity across various US sports markets.
+Using Kalshi API for market data, this project goal is to research and design AMM (automated market making) strategies for optimal risk/return while providing efficient liquidity across various US sports markets.
 
 ## Overview
 The goal is to explore potential MM strategies that can be phased in across major and minor US sport markets - as of May 2026 intial eploration begins with the PGA. The market data pull utilizes Kalshi's API and currently saves down pre-tournament trading activity (Monday - Thursday 5AM EST). End goals look to find profitable AMM strategies that improve general market effiency through the additional liquidity provided, esuring optimal sizing across various golf markets. The idea is to use a base framework that can be automatically tuned to each market given certain characteristics.
